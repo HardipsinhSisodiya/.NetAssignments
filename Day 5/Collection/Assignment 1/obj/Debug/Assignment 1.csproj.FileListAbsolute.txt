@@ -5,3 +5,10 @@ C:\Assignment\Day 5\Assignment 1\bin\Debug\Assignment 1.exe
 C:\Assignment\Day 5\Assignment 1\bin\Debug\Assignment 1.pdb
 C:\Assignment\Day 5\Assignment 1\obj\Debug\Assignment 1.exe
 C:\Assignment\Day 5\Assignment 1\obj\Debug\Assignment 1.pdb
+C:\Assignment\Day 5\Collection\Assignment 1\bin\Debug\Assignment 1.exe.config
+C:\Assignment\Day 5\Collection\Assignment 1\bin\Debug\Assignment 1.exe
+C:\Assignment\Day 5\Collection\Assignment 1\bin\Debug\Assignment 1.pdb
+C:\Assignment\Day 5\Collection\Assignment 1\obj\Debug\Assignment 1.csproj.AssemblyReference.cache
+C:\Assignment\Day 5\Collection\Assignment 1\obj\Debug\Assignment 1.csproj.CoreCompileInputs.cache
+C:\Assignment\Day 5\Collection\Assignment 1\obj\Debug\Assignment 1.exe
+C:\Assignment\Day 5\Collection\Assignment 1\obj\Debug\Assignment 1.pdb
