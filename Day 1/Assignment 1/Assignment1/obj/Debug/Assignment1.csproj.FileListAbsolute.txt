@@ -1,0 +1,14 @@
+C:\Assignment\Day 1\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Assignment\Day 1\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Assignment\Day 1\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Assignment\Day 1\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+C:\Assignment\Day 1\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Assignment\Day 1\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Assignment\Day 1\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+C:\Assignment\Day 1\Assignment 1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Assignment\Day 1\Assignment 1\Assignment1\bin\Debug\Assignment1.exe
+C:\Assignment\Day 1\Assignment 1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Assignment\Day 1\Assignment 1\Assignment1\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+C:\Assignment\Day 1\Assignment 1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Assignment\Day 1\Assignment 1\Assignment1\obj\Debug\Assignment1.exe
+C:\Assignment\Day 1\Assignment 1\Assignment1\obj\Debug\Assignment1.pdb
